@@ -1,6 +1,4 @@
 
-The DevBootstrap YouTube screencast supporting this repo is [here](https://www.youtube.com/watch?v=wq3uLSDJxUQ). Enjoy! :)
-
 ## Alias Docker-Compose Command
 
 First, I recommend to alias `docker-compose` to `dc` and `docker-compose run --rm "$@"` to `dcr` to save of typing.
@@ -205,4 +203,4 @@ ports:
 
 Then you can access the Freq UI via a browser at [http://127.0.0.1:8080/](http://127.0.0.1:8080/). You can also access and control the bot via a REST API too!
 
-# ETH_with_FreqTrade
+
